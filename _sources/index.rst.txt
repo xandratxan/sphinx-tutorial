@@ -13,6 +13,9 @@ Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 
 Check out the :doc:`usage` section for further information, including how to
 :ref:`install <installation>` the project.
+Check out the :doc:`api` section for further information.
+
+
 
 .. note::
 
